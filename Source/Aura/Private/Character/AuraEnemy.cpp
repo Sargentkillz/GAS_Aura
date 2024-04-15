@@ -18,6 +18,15 @@ AAuraEnemy::AAuraEnemy()
 	
 }
 
+void AAuraEnemy::BeginPlay()
+{
+	Super::BeginPlay();
+	AbilitySystemComponent->InitAbilityActorInfo(this, this);
+}
+
+/*
+ * Begin Enemy InterFace
+ */
 void AAuraEnemy::HighlightActor()
 {
 	GetMesh()->SetCustomDepthStencilValue(250);
@@ -33,3 +42,9 @@ void AAuraEnemy::UnHighlightActor()
 	GetMesh()->SetRenderCustomDepth(false);
 	Weapon->SetRenderCustomDepth(false);
 }
+
+/*
+ * End Enemy InterFace
+ */
+
+
