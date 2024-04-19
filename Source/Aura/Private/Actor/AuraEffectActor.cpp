@@ -5,7 +5,6 @@
 #include "AbilitySystemBlueprintLibrary.h"
 #include "AbilitySystemComponent.h"
 
-// Sets default values
 AAuraEffectActor::AAuraEffectActor()
 {
 	PrimaryActorTick.bCanEverTick = false;
@@ -30,6 +29,16 @@ void AAuraEffectActor::ApplyEffectToTarget(AActor* TargetActor, TSubclassOf<UGam
 	EffectContextHandle.AddSourceObject(this);
 	const FGameplayEffectSpecHandle EffectSpecHandle =TargetASC->MakeOutgoingSpec(GameplayEffectClass,1.f,EffectContextHandle);
 	TargetASC->ApplyGameplayEffectSpecToSelf(*EffectSpecHandle.Data.Get());
+}
+
+void AAuraEffectActor::OnOverlap(AActor* TargetActor)
+{
+	
+}
+
+void AAuraEffectActor::OnEndOverlap(AActor* TargetActor)
+{
+	
 }
 
 
