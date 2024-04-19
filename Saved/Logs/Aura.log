@@ -2014,3 +2014,823 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.19-16.35.10:532][894]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
 [2024.04.19-16.35.10:546][894]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
 [2024.04.19-16.35.10:578][895]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.04.19-16.49.18:144][836]Cmd: TRANSACTION UNDO
+[2024.04.19-16.49.18:144][836]LogEditorTransaction: Undo Move Elements
+[2024.04.19-16.49.18:440][848]Cmd: TRANSACTION UNDO
+[2024.04.19-16.49.18:440][848]LogEditorTransaction: Undo Move Elements
+[2024.04.19-16.49.18:645][855]Cmd: TRANSACTION UNDO
+[2024.04.19-16.49.18:645][855]LogEditorTransaction: Undo Clicking on Elements
+[2024.04.19-16.49.18:918][877]Cmd: TRANSACTION UNDO
+[2024.04.19-16.49.18:918][877]LogEditorTransaction: Undo Move Elements
+[2024.04.19-16.51.16:987][397]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.19-16.51.18:060][521]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.19-16.51.23:730][ 83]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.19-16.51.26:562][417]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.19-16.51.27:829][543]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.19-16.51.30:748][864]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.19-16.51.30:748][864]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.19-16.51.31:950][987]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.19-16.51.31:950][987]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.19-16.51.34:616][274]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.19-16.51.34:616][274]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.19-16.51.37:509][573]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.19-16.55.07:903][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.04.19-16.55.07:923][ 37]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/StartupMap_Auto1
+[2024.04.19-16.55.07:923][ 37]LogSavePackage: Moving '../../../../../../.Need/unreal engine/GAS Course/Aura/Saved/StartupMap_Auto1AD3F11E54A3DDD21FF00599D6926B3CC.tmp' to '../../../../../../.Need/unreal engine/GAS Course/Aura/Saved/Autosaves/Game/Maps/StartupMap_Auto1.umap'
+[2024.04.19-16.55.07:924][ 37]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../.Need/unreal engine/GAS Course/Aura/Saved/Autosaves/Game/Maps/StartupMap_Auto1.umap is in the /Temp path, will not scan.
+[2024.04.19-16.55.07:924][ 37]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/StartupMap' took 0.037
+[2024.04.19-16.55.07:924][ 37]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2024.04.19-16.55.40:086][602]BlueprintLog: New page: Compile GE_CrystalMana
+[2024.04.19-16.55.40:126][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.04.19-16.55.40:938][696]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-16.55.40:963][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actor/Potion/GE_CrystalMana" FILE="../../../../../../.Need/unreal engine/GAS Course/Aura/Content/Blueprints/Actor/Potion/GE_CrystalMana.uasset" SILENT=true
+[2024.04.19-16.55.40:964][696]LogSavePackage: Moving output files for package: /Game/Blueprints/Actor/Potion/GE_CrystalMana
+[2024.04.19-16.55.40:965][696]LogSavePackage: Moving '../../../../../../.Need/unreal engine/GAS Course/Aura/Saved/GE_CrystalMana6E098B5E4A62505EC3D1BD810A12FDF0.tmp' to '../../../../../../.Need/unreal engine/GAS Course/Aura/Content/Blueprints/Actor/Potion/GE_CrystalMana.uasset'
+[2024.04.19-16.55.40:969][696]LogFileHelpers: InternalPromptForCheckoutAndSave took 30 ms (total: 1.03 sec)
+[2024.04.19-16.55.40:970][696]AssetCheck: New page: Asset Save: GE_CrystalMana
+[2024.04.19-16.55.40:970][696]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Actor/Potion/GE_CrystalMana.GE_CrystalMana
+[2024.04.19-16.56.05:124][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.04.19-16.56.05:128][579]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-16.56.05:145][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartupMap" FILE="../../../../../../.Need/unreal engine/GAS Course/Aura/Content/Maps/StartupMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.19-16.56.05:166][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.04.19-16.56.05:183][579]LogSavePackage: Moving output files for package: /Game/Maps/StartupMap
+[2024.04.19-16.56.05:184][579]LogSavePackage: Moving '../../../../../../.Need/unreal engine/GAS Course/Aura/Saved/StartupMapC80D7BD942BA8D47175B719009FF35E7.tmp' to '../../../../../../.Need/unreal engine/GAS Course/Aura/Content/Maps/StartupMap.umap'
+[2024.04.19-16.56.05:188][579]LogFileHelpers: Saving map 'StartupMap' took 0.043
+[2024.04.19-16.56.05:195][579]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 1.10 sec)
+[2024.04.19-16.56.05:196][579]AssetCheck: New page: Asset Save: StartupMap
+[2024.04.19-16.56.05:196][579]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/StartupMap.StartupMap
+[2024.04.19-16.56.06:709][756]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.19-16.56.06:716][756]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.19-16.56.06:716][756]PIE: New page: PIE session: StartupMap (Apr 19, 2024, 8:56:06 AM)
+[2024.04.19-16.56.06:751][756]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartupMap
+[2024.04.19-16.56.06:755][756]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004190s)
+[2024.04.19-16.56.06:755][756]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartupMap.StartupMap to /Game/Maps/UEDPIE_0_StartupMap.StartupMap (0.004339s)
+[2024.04.19-16.56.06:766][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.04.19-16.56.06:767][756]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-16.56.06:767][756]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-16.56.06:768][756]LogAIModule: Creating AISystem for world StartupMap
+[2024.04.19-16.56.06:768][756]LogPlayLevel: PIE: World Init took: (0.001013s)
+[2024.04.19-16.56.06:768][756]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.04.19-16.56.06:768][756]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.19-16.56.06:768][756]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.19-16.56.06:769][756]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.19-16.56.06:769][756]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.19-16.56.06:769][756]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.19-16.56.06:769][756]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.19-16.56.06:769][756]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.19-16.56.06:769][756]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.19-16.56.06:769][756]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.19-16.56.06:769][756]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.19-16.56.06:769][756]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.19-16.56.06:771][756]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.19-16.56.06:791][756]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2024.04.19-16.56.06:791][756]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.19-16.56.06:791][756]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.19-16.56.06:791][756]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.19-16.56.06:792][756]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.04.19-16.56.06:792][756]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=10
+[2024.04.19-16.56.06:793][756]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.04.19-16.56.06:794][756]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.04.19-16.56.06:794][756]LogInit: FAudioDevice initialized with ID 10.
+[2024.04.19-16.56.06:794][756]LogAudio: Display: Audio Device (ID: 10) registered with world 'StartupMap'.
+[2024.04.19-16.56.06:794][756]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.04.19-16.56.06:797][756]LogLoad: Game class is 'BP_AuraGameMode_C'
+[2024.04.19-16.56.06:799][756]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2024.04.19-12.56.06
+[2024.04.19-16.56.06:801][756]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.04.19-16.56.06:802][756]LogWorld: Bringing up level for play took: 0.004650
+[2024.04.19-16.56.06:804][756]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.04.19-16.56.06:804][756]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.04.19-16.56.06:804][756]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.04.19-16.56.06:804][756]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.04.19-16.56.06:805][756]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.19-16.56.06:805][756]LogNet: GameNetDriver IpNetDriver_8 IpNetDriver listening on port 17777
+[2024.04.19-16.56.06:805][756]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.19-16.56.06:805][756]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.04.19-16.56.06:805][756]PIE: Server logged in
+[2024.04.19-16.56.06:806][756]PIE: Play in editor total start time 0.092 seconds.
+[2024.04.19-16.56.08:751][975]Cmd: Showdebug AbilitySystem
+[2024.04.19-16.56.21:732][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-16.56.21:732][511]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartupMap
+[2024.04.19-16.56.21:732][511]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-16.56.21:733][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-16.56.21:735][511]LogNet: World NetDriver shutdown IpNetDriver_8 [GameNetDriver]
+[2024.04.19-16.56.21:735][511]LogNet: DestroyNamedNetDriver IpNetDriver_8 [GameNetDriver]
+[2024.04.19-16.56.21:735][511]LogExit: GameNetDriver IpNetDriver_8 shut down
+[2024.04.19-16.56.21:736][511]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.19-16.56.21:741][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-16.56.21:751][511]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.19-16.56.21:751][511]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.04.19-16.56.21:751][511]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.04.19-16.56.21:753][511]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.04.19-16.56.21:756][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-16.56.21:766][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.04.19-16.56.21:821][512]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.04.19-16.56.22:913][633]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.19-16.56.22:919][633]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.19-16.56.22:919][633]PIE: New page: PIE session: StartupMap (Apr 19, 2024, 8:56:22 AM)
+[2024.04.19-16.56.22:942][633]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartupMap
+[2024.04.19-16.56.22:947][633]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004218s)
+[2024.04.19-16.56.22:947][633]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartupMap.StartupMap to /Game/Maps/UEDPIE_0_StartupMap.StartupMap (0.004406s)
+[2024.04.19-16.56.22:955][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.19-16.56.22:957][633]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-16.56.22:957][633]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-16.56.22:958][633]LogAIModule: Creating AISystem for world StartupMap
+[2024.04.19-16.56.22:958][633]LogPlayLevel: PIE: World Init took: (0.000973s)
+[2024.04.19-16.56.22:958][633]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.04.19-16.56.22:958][633]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.19-16.56.22:958][633]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.19-16.56.22:958][633]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.19-16.56.22:958][633]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.19-16.56.22:958][633]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.19-16.56.22:958][633]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.19-16.56.22:959][633]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.19-16.56.22:959][633]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.19-16.56.22:959][633]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.19-16.56.22:959][633]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.19-16.56.22:959][633]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.19-16.56.22:961][633]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.19-16.56.22:980][633]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2024.04.19-16.56.22:980][633]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.19-16.56.22:980][633]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.19-16.56.22:980][633]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.19-16.56.22:980][633]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.04.19-16.56.22:980][633]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=11
+[2024.04.19-16.56.22:982][633]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.04.19-16.56.22:982][633]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.04.19-16.56.22:982][633]LogInit: FAudioDevice initialized with ID 11.
+[2024.04.19-16.56.22:982][633]LogAudio: Display: Audio Device (ID: 11) registered with world 'StartupMap'.
+[2024.04.19-16.56.22:982][633]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.04.19-16.56.22:985][633]LogLoad: Game class is 'BP_AuraGameMode_C'
+[2024.04.19-16.56.22:989][633]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2024.04.19-12.56.22
+[2024.04.19-16.56.22:990][633]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.04.19-16.56.22:991][633]LogWorld: Bringing up level for play took: 0.004442
+[2024.04.19-16.56.22:992][633]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.04.19-16.56.22:992][633]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.04.19-16.56.22:992][633]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.04.19-16.56.22:993][633]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.04.19-16.56.22:993][633]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.19-16.56.22:993][633]LogNet: GameNetDriver IpNetDriver_9 IpNetDriver listening on port 17777
+[2024.04.19-16.56.22:993][633]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.19-16.56.22:993][633]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.04.19-16.56.22:993][633]PIE: Server logged in
+[2024.04.19-16.56.22:994][633]PIE: Play in editor total start time 0.076 seconds.
+[2024.04.19-16.56.24:680][821]Cmd: Showdebug AbilitySystem
+[2024.04.19-16.56.33:784][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-16.56.33:784][906]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartupMap
+[2024.04.19-16.56.33:784][906]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-16.56.33:785][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-16.56.33:786][906]LogNet: World NetDriver shutdown IpNetDriver_9 [GameNetDriver]
+[2024.04.19-16.56.33:786][906]LogNet: DestroyNamedNetDriver IpNetDriver_9 [GameNetDriver]
+[2024.04.19-16.56.33:787][906]LogExit: GameNetDriver IpNetDriver_9 shut down
+[2024.04.19-16.56.33:788][906]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.19-16.56.33:792][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-16.56.33:802][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-16.56.33:802][906]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.04.19-16.56.33:803][906]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.04.19-16.56.33:804][906]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.04.19-16.56.33:817][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.04.19-16.56.33:866][907]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.04.19-16.56.34:843][ 18]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.19-16.56.34:848][ 18]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.19-16.56.34:848][ 18]PIE: New page: PIE session: StartupMap (Apr 19, 2024, 8:56:34 AM)
+[2024.04.19-16.56.34:883][ 18]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartupMap
+[2024.04.19-16.56.34:887][ 18]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004146s)
+[2024.04.19-16.56.34:887][ 18]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartupMap.StartupMap to /Game/Maps/UEDPIE_0_StartupMap.StartupMap (0.004286s)
+[2024.04.19-16.56.34:896][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.04.19-16.56.34:899][ 18]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-16.56.34:900][ 18]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-16.56.34:901][ 18]LogAIModule: Creating AISystem for world StartupMap
+[2024.04.19-16.56.34:902][ 18]LogPlayLevel: PIE: World Init took: (0.001884s)
+[2024.04.19-16.56.34:902][ 18]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.04.19-16.56.34:902][ 18]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.19-16.56.34:902][ 18]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.19-16.56.34:902][ 18]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.19-16.56.34:902][ 18]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.19-16.56.34:902][ 18]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.19-16.56.34:902][ 18]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.19-16.56.34:902][ 18]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.19-16.56.34:902][ 18]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.19-16.56.34:902][ 18]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.19-16.56.34:902][ 18]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.19-16.56.34:902][ 18]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.19-16.56.34:905][ 18]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.19-16.56.34:924][ 18]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2024.04.19-16.56.34:924][ 18]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.19-16.56.34:924][ 18]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.19-16.56.34:924][ 18]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.19-16.56.34:925][ 18]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.04.19-16.56.34:925][ 18]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=12
+[2024.04.19-16.56.34:926][ 18]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.04.19-16.56.34:926][ 18]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.04.19-16.56.34:926][ 18]LogInit: FAudioDevice initialized with ID 12.
+[2024.04.19-16.56.34:926][ 18]LogAudio: Display: Audio Device (ID: 12) registered with world 'StartupMap'.
+[2024.04.19-16.56.34:926][ 18]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.04.19-16.56.34:929][ 18]LogLoad: Game class is 'BP_AuraGameMode_C'
+[2024.04.19-16.56.34:932][ 18]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2024.04.19-12.56.34
+[2024.04.19-16.56.34:934][ 18]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2024.04.19-16.56.34:934][ 18]LogWorld: Bringing up level for play took: 0.004736
+[2024.04.19-16.56.34:936][ 18]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.04.19-16.56.34:936][ 18]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.04.19-16.56.34:936][ 18]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.04.19-16.56.34:936][ 18]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.04.19-16.56.34:937][ 18]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.19-16.56.34:937][ 18]LogNet: GameNetDriver IpNetDriver_10 IpNetDriver listening on port 17777
+[2024.04.19-16.56.34:937][ 18]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.19-16.56.34:937][ 18]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.04.19-16.56.34:937][ 18]PIE: Server logged in
+[2024.04.19-16.56.34:938][ 18]PIE: Play in editor total start time 0.09 seconds.
+[2024.04.19-16.56.36:708][215]Cmd: Showdebug AbilitySystem
+[2024.04.19-16.56.44:572][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-16.56.44:572][153]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartupMap
+[2024.04.19-16.56.44:572][153]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-16.56.44:573][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-16.56.44:575][153]LogNet: World NetDriver shutdown IpNetDriver_10 [GameNetDriver]
+[2024.04.19-16.56.44:575][153]LogNet: DestroyNamedNetDriver IpNetDriver_10 [GameNetDriver]
+[2024.04.19-16.56.44:575][153]LogExit: GameNetDriver IpNetDriver_10 shut down
+[2024.04.19-16.56.44:577][153]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.19-16.56.44:581][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-16.56.44:589][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-16.56.44:589][153]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.04.19-16.56.44:589][153]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.04.19-16.56.44:591][153]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.04.19-16.56.44:618][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.04.19-16.56.44:668][154]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2024.04.19-16.56.50:126][785]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.19-16.56.50:131][785]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.19-16.56.50:131][785]PIE: New page: PIE session: StartupMap (Apr 19, 2024, 8:56:50 AM)
+[2024.04.19-16.56.50:162][785]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartupMap
+[2024.04.19-16.56.50:166][785]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004068s)
+[2024.04.19-16.56.50:166][785]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartupMap.StartupMap to /Game/Maps/UEDPIE_0_StartupMap.StartupMap (0.004221s)
+[2024.04.19-16.56.50:177][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.19-16.56.50:180][785]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-16.56.50:180][785]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-16.56.50:181][785]LogAIModule: Creating AISystem for world StartupMap
+[2024.04.19-16.56.50:181][785]LogPlayLevel: PIE: World Init took: (0.001002s)
+[2024.04.19-16.56.50:181][785]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.04.19-16.56.50:181][785]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.19-16.56.50:181][785]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.19-16.56.50:182][785]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.19-16.56.50:182][785]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.19-16.56.50:182][785]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.19-16.56.50:182][785]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.19-16.56.50:182][785]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.19-16.56.50:182][785]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.19-16.56.50:182][785]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.19-16.56.50:182][785]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.19-16.56.50:182][785]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.19-16.56.50:184][785]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.19-16.56.50:204][785]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2024.04.19-16.56.50:204][785]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.19-16.56.50:204][785]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.19-16.56.50:205][785]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.19-16.56.50:205][785]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.04.19-16.56.50:205][785]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=13
+[2024.04.19-16.56.50:207][785]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.04.19-16.56.50:207][785]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.04.19-16.56.50:207][785]LogInit: FAudioDevice initialized with ID 13.
+[2024.04.19-16.56.50:207][785]LogAudio: Display: Audio Device (ID: 13) registered with world 'StartupMap'.
+[2024.04.19-16.56.50:207][785]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.04.19-16.56.50:210][785]LogLoad: Game class is 'BP_AuraGameMode_C'
+[2024.04.19-16.56.50:212][785]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2024.04.19-12.56.50
+[2024.04.19-16.56.50:214][785]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2024.04.19-16.56.50:214][785]LogWorld: Bringing up level for play took: 0.004326
+[2024.04.19-16.56.50:216][785]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.04.19-16.56.50:216][785]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.04.19-16.56.50:216][785]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.04.19-16.56.50:216][785]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.04.19-16.56.50:217][785]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.19-16.56.50:217][785]LogNet: GameNetDriver IpNetDriver_11 IpNetDriver listening on port 17777
+[2024.04.19-16.56.50:217][785]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.19-16.56.50:217][785]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.04.19-16.56.50:217][785]PIE: Server logged in
+[2024.04.19-16.56.50:218][785]PIE: Play in editor total start time 0.088 seconds.
+[2024.04.19-16.56.52:698][ 68]Cmd: Showdebug AbilitySystem
+[2024.04.19-16.57.04:334][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-16.57.04:334][451]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartupMap
+[2024.04.19-16.57.04:334][451]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-16.57.04:335][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-16.57.04:336][451]LogNet: World NetDriver shutdown IpNetDriver_11 [GameNetDriver]
+[2024.04.19-16.57.04:337][451]LogNet: DestroyNamedNetDriver IpNetDriver_11 [GameNetDriver]
+[2024.04.19-16.57.04:337][451]LogExit: GameNetDriver IpNetDriver_11 shut down
+[2024.04.19-16.57.04:338][451]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.19-16.57.04:342][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-16.57.04:351][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-16.57.04:352][451]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.04.19-16.57.04:352][451]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.04.19-16.57.04:353][451]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.04.19-16.57.04:367][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.04.19-16.57.04:416][452]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2024.04.19-16.57.36:826][293]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-16.57.36:849][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actor/Potion/GE_CrystalMana" FILE="../../../../../../.Need/unreal engine/GAS Course/Aura/Content/Blueprints/Actor/Potion/GE_CrystalMana.uasset" SILENT=true
+[2024.04.19-16.57.36:850][293]LogSavePackage: Moving output files for package: /Game/Blueprints/Actor/Potion/GE_CrystalMana
+[2024.04.19-16.57.36:850][293]LogSavePackage: Moving '../../../../../../.Need/unreal engine/GAS Course/Aura/Saved/GE_CrystalMana9E70CE8F41C7F57C4C45BE93E050A3EA.tmp' to '../../../../../../.Need/unreal engine/GAS Course/Aura/Content/Blueprints/Actor/Potion/GE_CrystalMana.uasset'
+[2024.04.19-16.57.36:856][293]LogFileHelpers: InternalPromptForCheckoutAndSave took 29 ms (total: 1.13 sec)
+[2024.04.19-16.57.36:857][293]AssetCheck: New page: Asset Save: GE_CrystalMana
+[2024.04.19-16.57.36:857][293]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Actor/Potion/GE_CrystalMana.GE_CrystalMana
+[2024.04.19-16.57.37:247][340]BlueprintLog: New page: Compile GE_CrystalMana
+[2024.04.19-16.57.37:288][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.04.19-16.57.38:827][512]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.19-16.57.38:832][512]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.19-16.57.38:832][512]PIE: New page: PIE session: StartupMap (Apr 19, 2024, 8:57:38 AM)
+[2024.04.19-16.57.38:861][512]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartupMap
+[2024.04.19-16.57.38:865][512]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004166s)
+[2024.04.19-16.57.38:865][512]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartupMap.StartupMap to /Game/Maps/UEDPIE_0_StartupMap.StartupMap (0.004322s)
+[2024.04.19-16.57.38:874][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.04.19-16.57.38:878][512]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-16.57.38:878][512]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-16.57.38:879][512]LogAIModule: Creating AISystem for world StartupMap
+[2024.04.19-16.57.38:879][512]LogPlayLevel: PIE: World Init took: (0.001045s)
+[2024.04.19-16.57.38:879][512]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.04.19-16.57.38:879][512]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.19-16.57.38:879][512]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.19-16.57.38:879][512]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.19-16.57.38:879][512]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.19-16.57.38:879][512]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.19-16.57.38:879][512]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.19-16.57.38:879][512]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.19-16.57.38:879][512]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.19-16.57.38:880][512]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.19-16.57.38:880][512]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.19-16.57.38:880][512]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.19-16.57.38:882][512]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.19-16.57.38:907][512]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2024.04.19-16.57.38:908][512]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.19-16.57.38:908][512]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.19-16.57.38:908][512]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.19-16.57.38:909][512]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.04.19-16.57.38:909][512]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=14
+[2024.04.19-16.57.38:910][512]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.04.19-16.57.38:910][512]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.04.19-16.57.38:910][512]LogInit: FAudioDevice initialized with ID 14.
+[2024.04.19-16.57.38:910][512]LogAudio: Display: Audio Device (ID: 14) registered with world 'StartupMap'.
+[2024.04.19-16.57.38:910][512]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.04.19-16.57.38:913][512]LogLoad: Game class is 'BP_AuraGameMode_C'
+[2024.04.19-16.57.38:916][512]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2024.04.19-12.57.38
+[2024.04.19-16.57.38:918][512]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2024.04.19-16.57.38:919][512]LogWorld: Bringing up level for play took: 0.004528
+[2024.04.19-16.57.38:921][512]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.04.19-16.57.38:921][512]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.04.19-16.57.38:921][512]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.04.19-16.57.38:921][512]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.04.19-16.57.38:921][512]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.19-16.57.38:921][512]LogNet: GameNetDriver IpNetDriver_12 IpNetDriver listening on port 17777
+[2024.04.19-16.57.38:922][512]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.19-16.57.38:922][512]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.04.19-16.57.38:922][512]PIE: Server logged in
+[2024.04.19-16.57.38:923][512]PIE: Play in editor total start time 0.09 seconds.
+[2024.04.19-16.57.40:480][684]Cmd: Showdebug AbilitySystem
+[2024.04.19-16.57.54:582][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-16.57.54:582][362]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartupMap
+[2024.04.19-16.57.54:582][362]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-16.57.54:583][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-16.57.54:585][362]LogNet: World NetDriver shutdown IpNetDriver_12 [GameNetDriver]
+[2024.04.19-16.57.54:585][362]LogNet: DestroyNamedNetDriver IpNetDriver_12 [GameNetDriver]
+[2024.04.19-16.57.54:585][362]LogExit: GameNetDriver IpNetDriver_12 shut down
+[2024.04.19-16.57.54:587][362]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.19-16.57.54:590][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-16.57.54:598][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-16.57.54:598][362]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.04.19-16.57.54:598][362]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.04.19-16.57.54:600][362]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.04.19-16.57.54:615][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.04.19-16.57.54:664][363]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2024.04.19-16.57.56:200][538]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.19-16.57.56:205][538]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.19-16.57.56:205][538]PIE: New page: PIE session: StartupMap (Apr 19, 2024, 8:57:56 AM)
+[2024.04.19-16.57.56:233][538]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartupMap
+[2024.04.19-16.57.56:237][538]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004291s)
+[2024.04.19-16.57.56:237][538]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartupMap.StartupMap to /Game/Maps/UEDPIE_0_StartupMap.StartupMap (0.004447s)
+[2024.04.19-16.57.56:245][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.19-16.57.56:249][538]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-16.57.56:249][538]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-16.57.56:249][538]LogAIModule: Creating AISystem for world StartupMap
+[2024.04.19-16.57.56:249][538]LogPlayLevel: PIE: World Init took: (0.000955s)
+[2024.04.19-16.57.56:249][538]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.04.19-16.57.56:250][538]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.19-16.57.56:250][538]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.19-16.57.56:250][538]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.19-16.57.56:250][538]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.19-16.57.56:250][538]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.19-16.57.56:250][538]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.19-16.57.56:250][538]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.19-16.57.56:250][538]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.19-16.57.56:250][538]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.19-16.57.56:251][538]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.19-16.57.56:251][538]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.19-16.57.56:252][538]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.19-16.57.56:272][538]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2024.04.19-16.57.56:272][538]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.19-16.57.56:272][538]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.19-16.57.56:272][538]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.19-16.57.56:273][538]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.04.19-16.57.56:273][538]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=15
+[2024.04.19-16.57.56:274][538]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.04.19-16.57.56:274][538]LogInit: FAudioDevice initialized with ID 15.
+[2024.04.19-16.57.56:274][538]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.04.19-16.57.56:274][538]LogAudio: Display: Audio Device (ID: 15) registered with world 'StartupMap'.
+[2024.04.19-16.57.56:274][538]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.04.19-16.57.56:277][538]LogLoad: Game class is 'BP_AuraGameMode_C'
+[2024.04.19-16.57.56:280][538]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2024.04.19-12.57.56
+[2024.04.19-16.57.56:282][538]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2024.04.19-16.57.56:282][538]LogWorld: Bringing up level for play took: 0.004417
+[2024.04.19-16.57.56:284][538]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.04.19-16.57.56:284][538]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.04.19-16.57.56:284][538]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.04.19-16.57.56:285][538]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.04.19-16.57.56:285][538]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.19-16.57.56:285][538]LogNet: GameNetDriver IpNetDriver_13 IpNetDriver listening on port 17777
+[2024.04.19-16.57.56:285][538]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.19-16.57.56:285][538]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.04.19-16.57.56:285][538]PIE: Server logged in
+[2024.04.19-16.57.56:286][538]PIE: Play in editor total start time 0.081 seconds.
+[2024.04.19-16.57.58:168][749]Cmd: Showdebug AbilitySystem
+[2024.04.19-16.58.04:471][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-16.58.04:471][500]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartupMap
+[2024.04.19-16.58.04:472][500]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-16.58.04:472][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-16.58.04:474][500]LogNet: World NetDriver shutdown IpNetDriver_13 [GameNetDriver]
+[2024.04.19-16.58.04:474][500]LogNet: DestroyNamedNetDriver IpNetDriver_13 [GameNetDriver]
+[2024.04.19-16.58.04:474][500]LogExit: GameNetDriver IpNetDriver_13 shut down
+[2024.04.19-16.58.04:476][500]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.19-16.58.04:480][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-16.58.04:491][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-16.58.04:491][500]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.04.19-16.58.04:491][500]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.04.19-16.58.04:493][500]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.04.19-16.58.04:508][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.04.19-16.58.04:557][501]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.04.19-16.59.24:729][ 57]BlueprintLog: New page: Compile GE_CrystalMana
+[2024.04.19-16.59.24:771][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.04.19-16.59.25:245][110]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-16.59.25:274][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actor/Potion/GE_CrystalMana" FILE="../../../../../../.Need/unreal engine/GAS Course/Aura/Content/Blueprints/Actor/Potion/GE_CrystalMana.uasset" SILENT=true
+[2024.04.19-16.59.25:276][110]LogSavePackage: Moving output files for package: /Game/Blueprints/Actor/Potion/GE_CrystalMana
+[2024.04.19-16.59.25:276][110]LogSavePackage: Moving '../../../../../../.Need/unreal engine/GAS Course/Aura/Saved/GE_CrystalMana9F96FE76428147CF2BB37CA816225508.tmp' to '../../../../../../.Need/unreal engine/GAS Course/Aura/Content/Blueprints/Actor/Potion/GE_CrystalMana.uasset'
+[2024.04.19-16.59.25:281][110]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 1.16 sec)
+[2024.04.19-16.59.25:281][110]AssetCheck: New page: Asset Save: GE_CrystalMana
+[2024.04.19-16.59.25:281][110]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Actor/Potion/GE_CrystalMana.GE_CrystalMana
+[2024.04.19-16.59.28:536][486]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.19-16.59.28:542][486]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.19-16.59.28:542][486]PIE: New page: PIE session: StartupMap (Apr 19, 2024, 8:59:28 AM)
+[2024.04.19-16.59.28:542][486]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartupMap
+[2024.04.19-16.59.28:546][486]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004221s)
+[2024.04.19-16.59.28:546][486]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartupMap.StartupMap to /Game/Maps/UEDPIE_0_StartupMap.StartupMap (0.004344s)
+[2024.04.19-16.59.28:557][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.04.19-16.59.28:561][486]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-16.59.28:561][486]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-16.59.28:562][486]LogAIModule: Creating AISystem for world StartupMap
+[2024.04.19-16.59.28:562][486]LogPlayLevel: PIE: World Init took: (0.000990s)
+[2024.04.19-16.59.28:562][486]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.04.19-16.59.28:562][486]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.19-16.59.28:562][486]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.19-16.59.28:562][486]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.19-16.59.28:562][486]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.19-16.59.28:562][486]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.19-16.59.28:562][486]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.19-16.59.28:562][486]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.19-16.59.28:562][486]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.19-16.59.28:563][486]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.19-16.59.28:563][486]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.19-16.59.28:563][486]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.19-16.59.28:566][486]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.19-16.59.28:585][486]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2024.04.19-16.59.28:585][486]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.19-16.59.28:586][486]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.19-16.59.28:586][486]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.19-16.59.28:586][486]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.04.19-16.59.28:586][486]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=16
+[2024.04.19-16.59.28:588][486]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.04.19-16.59.28:588][486]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.04.19-16.59.28:588][486]LogInit: FAudioDevice initialized with ID 16.
+[2024.04.19-16.59.28:588][486]LogAudio: Display: Audio Device (ID: 16) registered with world 'StartupMap'.
+[2024.04.19-16.59.28:588][486]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.04.19-16.59.28:591][486]LogLoad: Game class is 'BP_AuraGameMode_C'
+[2024.04.19-16.59.28:594][486]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2024.04.19-12.59.28
+[2024.04.19-16.59.28:595][486]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2024.04.19-16.59.28:596][486]LogWorld: Bringing up level for play took: 0.004375
+[2024.04.19-16.59.28:598][486]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.04.19-16.59.28:598][486]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.04.19-16.59.28:598][486]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.04.19-16.59.28:598][486]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.04.19-16.59.28:598][486]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.19-16.59.28:598][486]LogNet: GameNetDriver IpNetDriver_14 IpNetDriver listening on port 17777
+[2024.04.19-16.59.28:599][486]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.19-16.59.28:599][486]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.04.19-16.59.28:599][486]PIE: Server logged in
+[2024.04.19-16.59.28:600][486]PIE: Play in editor total start time 0.057 seconds.
+[2024.04.19-16.59.33:345][ 41]Cmd: r.TemporalAA.R11G11B10History
+[2024.04.19-16.59.33:345][ 41]r.TemporalAA.R11G11B10History = "1"      LastSetBy: Constructor
+[2024.04.19-16.59.35:855][342]Cmd: Showdebug AbilitySystem
+[2024.04.19-16.59.48:721][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-16.59.48:722][881]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartupMap
+[2024.04.19-16.59.48:722][881]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-16.59.48:722][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-16.59.48:724][881]LogNet: World NetDriver shutdown IpNetDriver_14 [GameNetDriver]
+[2024.04.19-16.59.48:724][881]LogNet: DestroyNamedNetDriver IpNetDriver_14 [GameNetDriver]
+[2024.04.19-16.59.48:725][881]LogExit: GameNetDriver IpNetDriver_14 shut down
+[2024.04.19-16.59.48:726][881]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.19-16.59.48:730][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-16.59.48:739][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-16.59.48:739][881]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.04.19-16.59.48:739][881]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.04.19-16.59.48:740][881]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.04.19-16.59.48:755][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.04.19-16.59.48:813][882]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2024.04.19-17.01.05:932][641]BlueprintLog: New page: Compile GE_CrystalMana
+[2024.04.19-17.01.05:973][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.04.19-17.01.06:505][701]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-17.01.06:529][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actor/Potion/GE_CrystalMana" FILE="../../../../../../.Need/unreal engine/GAS Course/Aura/Content/Blueprints/Actor/Potion/GE_CrystalMana.uasset" SILENT=true
+[2024.04.19-17.01.06:531][701]LogSavePackage: Moving output files for package: /Game/Blueprints/Actor/Potion/GE_CrystalMana
+[2024.04.19-17.01.06:531][701]LogSavePackage: Moving '../../../../../../.Need/unreal engine/GAS Course/Aura/Saved/GE_CrystalMana7CB3EBBE47EE5EF2F4F633B21EB553AE.tmp' to '../../../../../../.Need/unreal engine/GAS Course/Aura/Content/Blueprints/Actor/Potion/GE_CrystalMana.uasset'
+[2024.04.19-17.01.06:536][701]LogFileHelpers: InternalPromptForCheckoutAndSave took 30 ms (total: 1.19 sec)
+[2024.04.19-17.01.06:537][701]AssetCheck: New page: Asset Save: GE_CrystalMana
+[2024.04.19-17.01.06:537][701]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Actor/Potion/GE_CrystalMana.GE_CrystalMana
+[2024.04.19-17.01.10:089][116]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.19-17.01.10:095][116]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.19-17.01.10:095][116]PIE: New page: PIE session: StartupMap (Apr 19, 2024, 9:01:10 AM)
+[2024.04.19-17.01.10:132][116]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartupMap
+[2024.04.19-17.01.10:137][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004231s)
+[2024.04.19-17.01.10:137][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartupMap.StartupMap to /Game/Maps/UEDPIE_0_StartupMap.StartupMap (0.004429s)
+[2024.04.19-17.01.10:146][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.04.19-17.01.10:150][116]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-17.01.10:150][116]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-17.01.10:151][116]LogAIModule: Creating AISystem for world StartupMap
+[2024.04.19-17.01.10:151][116]LogPlayLevel: PIE: World Init took: (0.001134s)
+[2024.04.19-17.01.10:151][116]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.04.19-17.01.10:151][116]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.19-17.01.10:151][116]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.19-17.01.10:151][116]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.19-17.01.10:151][116]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.19-17.01.10:151][116]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.19-17.01.10:152][116]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.19-17.01.10:152][116]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.19-17.01.10:152][116]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.19-17.01.10:152][116]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.19-17.01.10:152][116]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.19-17.01.10:152][116]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.19-17.01.10:154][116]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.19-17.01.10:174][116]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2024.04.19-17.01.10:174][116]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.19-17.01.10:174][116]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.19-17.01.10:174][116]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.19-17.01.10:175][116]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.04.19-17.01.10:175][116]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=17
+[2024.04.19-17.01.10:176][116]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.04.19-17.01.10:176][116]LogInit: FAudioDevice initialized with ID 17.
+[2024.04.19-17.01.10:176][116]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.04.19-17.01.10:176][116]LogAudio: Display: Audio Device (ID: 17) registered with world 'StartupMap'.
+[2024.04.19-17.01.10:176][116]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2024.04.19-17.01.10:179][116]LogLoad: Game class is 'BP_AuraGameMode_C'
+[2024.04.19-17.01.10:182][116]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2024.04.19-13.01.10
+[2024.04.19-17.01.10:184][116]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2024.04.19-17.01.10:185][116]LogWorld: Bringing up level for play took: 0.004676
+[2024.04.19-17.01.10:187][116]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.04.19-17.01.10:187][116]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.04.19-17.01.10:187][116]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.04.19-17.01.10:187][116]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.04.19-17.01.10:187][116]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.19-17.01.10:187][116]LogNet: GameNetDriver IpNetDriver_15 IpNetDriver listening on port 17777
+[2024.04.19-17.01.10:188][116]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.19-17.01.10:188][116]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.04.19-17.01.10:188][116]PIE: Server logged in
+[2024.04.19-17.01.10:189][116]PIE: Play in editor total start time 0.094 seconds.
+[2024.04.19-17.01.12:117][332]Cmd: Showdebug AbilitySystem
+[2024.04.19-17.01.40:283][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-17.01.40:283][693]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartupMap
+[2024.04.19-17.01.40:283][693]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-17.01.40:284][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-17.01.40:285][693]LogNet: World NetDriver shutdown IpNetDriver_15 [GameNetDriver]
+[2024.04.19-17.01.40:285][693]LogNet: DestroyNamedNetDriver IpNetDriver_15 [GameNetDriver]
+[2024.04.19-17.01.40:286][693]LogExit: GameNetDriver IpNetDriver_15 shut down
+[2024.04.19-17.01.40:287][693]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.19-17.01.40:291][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-17.01.40:302][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-17.01.40:302][693]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2024.04.19-17.01.40:302][693]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.04.19-17.01.40:303][693]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.04.19-17.01.40:319][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.04.19-17.01.40:369][694]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.04.19-17.01.45:840][341]BlueprintLog: New page: Compile GE_CrystalMana
+[2024.04.19-17.01.45:881][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.19-17.01.46:974][468]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-17.01.47:003][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actor/Potion/GE_CrystalMana" FILE="../../../../../../.Need/unreal engine/GAS Course/Aura/Content/Blueprints/Actor/Potion/GE_CrystalMana.uasset" SILENT=true
+[2024.04.19-17.01.47:005][468]LogSavePackage: Moving output files for package: /Game/Blueprints/Actor/Potion/GE_CrystalMana
+[2024.04.19-17.01.47:006][468]LogSavePackage: Moving '../../../../../../.Need/unreal engine/GAS Course/Aura/Saved/GE_CrystalMana6CFA0FD64E0553C7BEE6A68F024878F3.tmp' to '../../../../../../.Need/unreal engine/GAS Course/Aura/Content/Blueprints/Actor/Potion/GE_CrystalMana.uasset'
+[2024.04.19-17.01.47:011][468]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 1.23 sec)
+[2024.04.19-17.01.47:011][468]AssetCheck: New page: Asset Save: GE_CrystalMana
+[2024.04.19-17.01.47:011][468]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Actor/Potion/GE_CrystalMana.GE_CrystalMana
+[2024.04.19-17.01.49:239][722]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.19-17.01.49:244][722]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.19-17.01.49:244][722]PIE: New page: PIE session: StartupMap (Apr 19, 2024, 9:01:49 AM)
+[2024.04.19-17.01.49:271][722]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartupMap
+[2024.04.19-17.01.49:276][722]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004298s)
+[2024.04.19-17.01.49:276][722]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartupMap.StartupMap to /Game/Maps/UEDPIE_0_StartupMap.StartupMap (0.004499s)
+[2024.04.19-17.01.49:285][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.04.19-17.01.49:289][722]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-17.01.49:290][722]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-17.01.49:290][722]LogAIModule: Creating AISystem for world StartupMap
+[2024.04.19-17.01.49:290][722]LogPlayLevel: PIE: World Init took: (0.001082s)
+[2024.04.19-17.01.49:290][722]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.04.19-17.01.49:291][722]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.19-17.01.49:291][722]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.19-17.01.49:291][722]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.19-17.01.49:291][722]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.19-17.01.49:291][722]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.19-17.01.49:291][722]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.19-17.01.49:291][722]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.19-17.01.49:291][722]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.19-17.01.49:291][722]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.19-17.01.49:291][722]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.19-17.01.49:292][722]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.19-17.01.49:293][722]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.19-17.01.49:313][722]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2024.04.19-17.01.49:313][722]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.19-17.01.49:314][722]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.19-17.01.49:314][722]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.19-17.01.49:314][722]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2024.04.19-17.01.49:314][722]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=18
+[2024.04.19-17.01.49:316][722]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2024.04.19-17.01.49:316][722]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2024.04.19-17.01.49:316][722]LogInit: FAudioDevice initialized with ID 18.
+[2024.04.19-17.01.49:316][722]LogAudio: Display: Audio Device (ID: 18) registered with world 'StartupMap'.
+[2024.04.19-17.01.49:316][722]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2024.04.19-17.01.49:319][722]LogLoad: Game class is 'BP_AuraGameMode_C'
+[2024.04.19-17.01.49:322][722]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2024.04.19-13.01.49
+[2024.04.19-17.01.49:324][722]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2024.04.19-17.01.49:324][722]LogWorld: Bringing up level for play took: 0.004734
+[2024.04.19-17.01.49:326][722]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.04.19-17.01.49:327][722]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.04.19-17.01.49:327][722]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.04.19-17.01.49:327][722]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.04.19-17.01.49:327][722]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.19-17.01.49:327][722]LogNet: GameNetDriver IpNetDriver_16 IpNetDriver listening on port 17777
+[2024.04.19-17.01.49:327][722]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.19-17.01.49:327][722]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.04.19-17.01.49:328][722]PIE: Server logged in
+[2024.04.19-17.01.49:328][722]PIE: Play in editor total start time 0.084 seconds.
+[2024.04.19-17.01.52:547][ 93]Cmd: Showdebug AbilitySystem
+[2024.04.19-17.01.53:413][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-17.01.53:413][193]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartupMap
+[2024.04.19-17.01.53:413][193]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-17.01.53:414][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-17.01.53:416][193]LogNet: World NetDriver shutdown IpNetDriver_16 [GameNetDriver]
+[2024.04.19-17.01.53:416][193]LogNet: DestroyNamedNetDriver IpNetDriver_16 [GameNetDriver]
+[2024.04.19-17.01.53:416][193]LogExit: GameNetDriver IpNetDriver_16 shut down
+[2024.04.19-17.01.53:417][193]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.19-17.01.53:421][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-17.01.53:429][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-17.01.53:429][193]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2024.04.19-17.01.53:429][193]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.04.19-17.01.53:430][193]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.04.19-17.01.53:446][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.04.19-17.01.53:496][194]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.04.19-17.02.07:602][840]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.19-17.02.07:607][840]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.19-17.02.07:607][840]PIE: New page: PIE session: StartupMap (Apr 19, 2024, 9:02:07 AM)
+[2024.04.19-17.02.07:642][840]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartupMap
+[2024.04.19-17.02.07:646][840]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004202s)
+[2024.04.19-17.02.07:646][840]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartupMap.StartupMap to /Game/Maps/UEDPIE_0_StartupMap.StartupMap (0.004352s)
+[2024.04.19-17.02.07:656][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.19-17.02.07:659][840]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-17.02.07:659][840]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-17.02.07:660][840]LogAIModule: Creating AISystem for world StartupMap
+[2024.04.19-17.02.07:660][840]LogPlayLevel: PIE: World Init took: (0.000942s)
+[2024.04.19-17.02.07:660][840]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.04.19-17.02.07:660][840]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.19-17.02.07:660][840]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.19-17.02.07:661][840]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.19-17.02.07:661][840]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.19-17.02.07:661][840]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.19-17.02.07:661][840]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.19-17.02.07:661][840]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.19-17.02.07:661][840]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.19-17.02.07:661][840]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.19-17.02.07:661][840]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.19-17.02.07:661][840]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.19-17.02.07:663][840]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.19-17.02.07:682][840]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2024.04.19-17.02.07:682][840]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.19-17.02.07:682][840]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.19-17.02.07:683][840]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.19-17.02.07:683][840]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.04.19-17.02.07:683][840]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=19
+[2024.04.19-17.02.07:685][840]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.04.19-17.02.07:685][840]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.04.19-17.02.07:685][840]LogInit: FAudioDevice initialized with ID 19.
+[2024.04.19-17.02.07:685][840]LogAudio: Display: Audio Device (ID: 19) registered with world 'StartupMap'.
+[2024.04.19-17.02.07:685][840]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2024.04.19-17.02.07:688][840]LogLoad: Game class is 'BP_AuraGameMode_C'
+[2024.04.19-17.02.07:691][840]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2024.04.19-13.02.07
+[2024.04.19-17.02.07:692][840]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2024.04.19-17.02.07:692][840]LogWorld: Bringing up level for play took: 0.004366
+[2024.04.19-17.02.07:694][840]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.04.19-17.02.07:694][840]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.04.19-17.02.07:694][840]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.04.19-17.02.07:694][840]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.04.19-17.02.07:694][840]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.19-17.02.07:694][840]LogNet: GameNetDriver IpNetDriver_17 IpNetDriver listening on port 17777
+[2024.04.19-17.02.07:696][840]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.19-17.02.07:696][840]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.04.19-17.02.07:696][840]PIE: Server logged in
+[2024.04.19-17.02.07:697][840]PIE: Play in editor total start time 0.09 seconds.
+[2024.04.19-17.02.19:143][197]Cmd: Showdebug AbilitySystem
+[2024.04.19-17.02.32:842][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-17.02.32:842][828]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartupMap
+[2024.04.19-17.02.32:843][828]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-17.02.32:843][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-17.02.32:845][828]LogNet: World NetDriver shutdown IpNetDriver_17 [GameNetDriver]
+[2024.04.19-17.02.32:845][828]LogNet: DestroyNamedNetDriver IpNetDriver_17 [GameNetDriver]
+[2024.04.19-17.02.32:845][828]LogExit: GameNetDriver IpNetDriver_17 shut down
+[2024.04.19-17.02.32:847][828]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.19-17.02.32:850][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-17.02.32:861][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-17.02.32:861][828]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2024.04.19-17.02.32:861][828]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.04.19-17.02.32:863][828]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.04.19-17.02.32:879][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.04.19-17.02.32:929][829]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.04.19-17.02.34:710][ 31]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.19-17.02.34:716][ 31]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.19-17.02.34:716][ 31]PIE: New page: PIE session: StartupMap (Apr 19, 2024, 9:02:34 AM)
+[2024.04.19-17.02.34:761][ 31]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartupMap
+[2024.04.19-17.02.34:766][ 31]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004471s)
+[2024.04.19-17.02.34:766][ 31]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartupMap.StartupMap to /Game/Maps/UEDPIE_0_StartupMap.StartupMap (0.004654s)
+[2024.04.19-17.02.34:777][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.04.19-17.02.34:780][ 31]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-17.02.34:780][ 31]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-17.02.34:781][ 31]LogAIModule: Creating AISystem for world StartupMap
+[2024.04.19-17.02.34:781][ 31]LogPlayLevel: PIE: World Init took: (0.001012s)
+[2024.04.19-17.02.34:781][ 31]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.04.19-17.02.34:781][ 31]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.19-17.02.34:781][ 31]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.19-17.02.34:781][ 31]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.19-17.02.34:781][ 31]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.19-17.02.34:781][ 31]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.19-17.02.34:781][ 31]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.19-17.02.34:781][ 31]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.19-17.02.34:781][ 31]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.19-17.02.34:782][ 31]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.19-17.02.34:782][ 31]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.19-17.02.34:782][ 31]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.19-17.02.34:783][ 31]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.19-17.02.34:804][ 31]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2024.04.19-17.02.34:804][ 31]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.19-17.02.34:804][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.19-17.02.34:804][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.19-17.02.34:804][ 31]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.04.19-17.02.34:804][ 31]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=20
+[2024.04.19-17.02.34:806][ 31]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.04.19-17.02.34:806][ 31]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.04.19-17.02.34:806][ 31]LogInit: FAudioDevice initialized with ID 20.
+[2024.04.19-17.02.34:806][ 31]LogAudio: Display: Audio Device (ID: 20) registered with world 'StartupMap'.
+[2024.04.19-17.02.34:806][ 31]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2024.04.19-17.02.34:809][ 31]LogLoad: Game class is 'BP_AuraGameMode_C'
+[2024.04.19-17.02.34:812][ 31]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2024.04.19-13.02.34
+[2024.04.19-17.02.34:813][ 31]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2024.04.19-17.02.34:815][ 31]LogWorld: Bringing up level for play took: 0.004691
+[2024.04.19-17.02.34:817][ 31]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.04.19-17.02.34:817][ 31]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.04.19-17.02.34:817][ 31]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.04.19-17.02.34:817][ 31]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.04.19-17.02.34:817][ 31]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.04.19-17.02.34:818][ 31]LogNet: GameNetDriver IpNetDriver_18 IpNetDriver listening on port 17777
+[2024.04.19-17.02.34:818][ 31]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.19-17.02.34:818][ 31]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.04.19-17.02.34:818][ 31]PIE: Server logged in
+[2024.04.19-17.02.34:819][ 31]PIE: Play in editor total start time 0.103 seconds.
+[2024.04.19-17.02.37:114][292]Cmd: Showdebug AbilitySystem
+[2024.04.19-17.02.55:861][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-17.02.55:862][944]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartupMap
+[2024.04.19-17.02.55:862][944]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-17.02.55:862][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-17.02.55:866][944]LogNet: World NetDriver shutdown IpNetDriver_18 [GameNetDriver]
+[2024.04.19-17.02.55:866][944]LogNet: DestroyNamedNetDriver IpNetDriver_18 [GameNetDriver]
+[2024.04.19-17.02.55:867][944]LogExit: GameNetDriver IpNetDriver_18 shut down
+[2024.04.19-17.02.55:868][944]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.19-17.02.55:872][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-17.02.55:882][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-17.02.55:883][944]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2024.04.19-17.02.55:883][944]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.04.19-17.02.55:885][944]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.04.19-17.02.55:901][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.04.19-17.02.55:971][945]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2024.04.19-17.03.25:507][487]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.04.19-17.03.25:507][487]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.04.19-17.03.55:275][ 59]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.04.19-17.04.42:091][230]BlueprintLog: New page: Compile GE_CrystalMana
+[2024.04.19-17.04.42:132][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.04.19-17.04.42:464][266]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-17.04.42:483][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actor/Potion/GE_CrystalMana" FILE="../../../../../../.Need/unreal engine/GAS Course/Aura/Content/Blueprints/Actor/Potion/GE_CrystalMana.uasset" SILENT=true
+[2024.04.19-17.04.42:484][266]LogSavePackage: Moving output files for package: /Game/Blueprints/Actor/Potion/GE_CrystalMana
+[2024.04.19-17.04.42:485][266]LogSavePackage: Moving '../../../../../../.Need/unreal engine/GAS Course/Aura/Saved/GE_CrystalMana843344F043F7889796EEDAB28B6FDDA9.tmp' to '../../../../../../.Need/unreal engine/GAS Course/Aura/Content/Blueprints/Actor/Potion/GE_CrystalMana.uasset'
+[2024.04.19-17.04.42:490][266]LogFileHelpers: InternalPromptForCheckoutAndSave took 25 ms (total: 1.26 sec)
+[2024.04.19-17.04.42:491][266]AssetCheck: New page: Asset Save: GE_CrystalMana
+[2024.04.19-17.04.42:491][266]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Actor/Potion/GE_CrystalMana.GE_CrystalMana
+[2024.04.19-17.05.07:451][ 37]BlueprintLog: New page: Compile GE_CrystalHeal
+[2024.04.19-17.05.07:490][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.04.19-17.05.07:888][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-17.05.07:913][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actor/Potion/GE_CrystalHeal" FILE="../../../../../../.Need/unreal engine/GAS Course/Aura/Content/Blueprints/Actor/Potion/GE_CrystalHeal.uasset" SILENT=true
+[2024.04.19-17.05.07:915][ 81]LogSavePackage: Moving output files for package: /Game/Blueprints/Actor/Potion/GE_CrystalHeal
+[2024.04.19-17.05.07:915][ 81]LogSavePackage: Moving '../../../../../../.Need/unreal engine/GAS Course/Aura/Saved/GE_CrystalHealF225926640F4835B7280239865AB32E6.tmp' to '../../../../../../.Need/unreal engine/GAS Course/Aura/Content/Blueprints/Actor/Potion/GE_CrystalHeal.uasset'
+[2024.04.19-17.05.07:920][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave took 32 ms (total: 1.29 sec)
+[2024.04.19-17.05.07:921][ 81]AssetCheck: New page: Asset Save: GE_CrystalHeal
+[2024.04.19-17.05.07:921][ 81]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Actor/Potion/GE_CrystalHeal.GE_CrystalHeal
