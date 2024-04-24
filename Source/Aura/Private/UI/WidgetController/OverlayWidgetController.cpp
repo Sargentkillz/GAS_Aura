@@ -32,7 +32,6 @@ void UOverlayWidgetController::BindCallbacksToDependencies()
 		{
 			const FString MSG = FString::Printf(TEXT("GE Tag: %s"), *Tag.ToString());
 			GEngine->AddOnScreenDebugMessage(-1,5.f,FColor::Blue,MSG);
-	
 		}
 	}
 	);
