@@ -50,6 +50,7 @@
 				"C:/.Need/unreal engine/GAS Course/Aura/Content/Blueprints/UI/Overlay/SubWidget/WBP_EffectMessage.uasset",
 				"C:/.Need/unreal engine/GAS Course/Aura/Content/Assets/UI/Globes/MI_GhostHealthGlobe.uasset",
 				"C:/.Need/unreal engine/GAS Course/Aura/Content/Assets/UI/Globes/MI_GhostManaGlobe.uasset",
+				"C:/.Need/unreal engine/GAS Course/Aura/Content/Blueprints/AbilitySystem/Data/DT_InitialPrimaryValues.uasset",
 				"C:/.Need/unreal engine/GAS Course/Aura/Content/Blueprints/Actor/Potion/CT_PotionHeal.uasset",
 				"C:/.Need/unreal engine/GAS Course/Aura/Content/Blueprints/Actor/Potion/GE_CrystalHeal.uasset",
 				"C:/.Need/unreal engine/GAS Course/Aura/Content/Blueprints/Actor/Potion/GE_CrystalMana.uasset",
